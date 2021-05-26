@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T10:48:51.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="W-fQWg5jvcWHnM8bH_o_" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T08:38:52.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KIyGr0SWC6LklY9tqaP6" version="14.6.13" type="github">
   <diagram id="B8hStYrAxmmMbMgLL3rB" name="Page-1">
-    <mxGraphModel dx="2137" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2137" dy="2079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,15 +8,15 @@
           <mxGeometry x="-360" y="-90" width="1140" height="600" as="geometry" />
         </mxCell>
         <mxCell id="JMJn1nMPECWK5IR5tHWk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#666666;align=left;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-332" y="160" width="250" height="270" as="geometry" />
+          <mxGeometry x="-340" y="160" width="258" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="5B6wULODDFFY0rguPRqn-2" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;平台易用性&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;.pingfang sc&amp;#34;&quot;&gt;&lt;b&gt;优化功能模块的交互及&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;UI&lt;/span&gt;设计&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;.pingfang sc&amp;#34;&quot;&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;元应用赋能高级分析能力&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;：通过PISA、ML等元应用赋能用户高级分析能力，帮助用户快速挖掘数据价值，加速知识沉淀&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;.pingfang sc&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;将数据分析场景应用（知识沉淀）作为主展示维度使用户更聚焦于分析价值&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=130;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=80;spacingRight=90;align=left;spacingTop=20;" parent="1" vertex="1">
+        <mxCell id="5B6wULODDFFY0rguPRqn-2" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;平台易用性&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;.pingfang sc&amp;#34;&quot;&gt;&lt;b&gt;优化交互及&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;UI&lt;/span&gt;设计：&lt;/b&gt;优化功能模块交互设计，&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;调整产品形态使用户更聚焦于&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;数据分析场景应用&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;.pingfang sc&amp;#34;&quot;&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;元应用有机联结业务应用&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;：通过PISA、知识库等元应用联结业务应用，&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;加速领域知识及方案沉淀，引导&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;用户快速挖掘数据价值&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=130;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=80;spacingRight=94;align=left;spacingTop=20;" parent="1" vertex="1">
           <mxGeometry x="80" y="110" width="520" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5B6wULODDFFY0rguPRqn-3" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;平台开放性&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;插件化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;低代码开发能力&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=140;fontSize=18;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;spacingLeft=10;spacingRight=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="-70" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5B6wULODDFFY0rguPRqn-6" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;平台可用性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 16px&quot;&gt;&lt;li&gt;&lt;b&gt;提升性能&lt;/b&gt;：打点性能、搜索分析性能&lt;/li&gt;&lt;li&gt;&lt;b&gt;提升功能&lt;/b&gt;：提升数据全生命周期管理流转效率，包括数据采集、数据解析、分析可视化、告警、权限体系&lt;/li&gt;&lt;/ul&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=110;fontSize=18;align=left;fillColor=#f8cecc;strokeColor=#b85450;spacingRight=100;spacingLeft=100;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="5B6wULODDFFY0rguPRqn-6" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;平台可用性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 16px&quot;&gt;&lt;li&gt;&lt;b&gt;提升性能&lt;/b&gt;：打点性能、搜索分析性能&lt;/li&gt;&lt;li&gt;&lt;b&gt;完善功能&lt;/b&gt;：包括数据采集、数据解析、分析可视化、告警、权限体系迭代重构，提升数据全生命周期管理效率&lt;/li&gt;&lt;/ul&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=110;fontSize=18;align=left;fillColor=#f8cecc;strokeColor=#b85450;spacingRight=100;spacingLeft=100;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="-30" y="300" width="740" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5B6wULODDFFY0rguPRqn-7" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;fontColor=#FF9999;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
@@ -25,8 +25,11 @@
             <mxPoint x="-80" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B6wULODDFFY0rguPRqn-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;提升产品可用性&lt;br&gt;提升产品易读易用性&lt;br&gt;提升用户体验，减少用户处理任务负荷&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;提升数据分析效率&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;dashed=1;strokeColor=#5E5E5E;spacingLeft=5;spacingRight=5;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-316" y="281" width="220" height="130" as="geometry" />
+        <mxCell id="bIA2nkXNgFzV9Rpf0cky-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5B6wULODDFFY0rguPRqn-9" target="JMJn1nMPECWK5IR5tHWk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5B6wULODDFFY0rguPRqn-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;提升产品可用性&lt;br&gt;提升产品易读易用性&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;提升数据分析效率&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;dashed=1;strokeColor=#5E5E5E;spacingLeft=5;spacingRight=5;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-328" y="330" width="234" height="81" as="geometry" />
         </mxCell>
         <mxCell id="5B6wULODDFFY0rguPRqn-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;fontColor=#FF9999;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,20 +46,20 @@
         <mxCell id="5B6wULODDFFY0rguPRqn-13" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;quot;.pingfang sc&amp;quot; ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;提升用户自助应用开发能力&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;quot;.pingfang sc&amp;quot; ; font-size: 18px&quot;&gt;&lt;span&gt;提升生态建设能力&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0;fontColor=#333333;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
           <mxGeometry x="-110" y="8.129999999999999" width="230" height="73.75" as="geometry" />
         </mxCell>
-        <mxCell id="JMJn1nMPECWK5IR5tHWk-5" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;提升POC效率&lt;/span&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;提升交付效率&lt;/span&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;提升运维效率&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;dashed=1;strokeColor=#5E5E5E;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
-          <mxGeometry x="-316" y="180" width="220" height="88" as="geometry" />
+        <mxCell id="JMJn1nMPECWK5IR5tHWk-5" value="&lt;span style=&quot;font-size: 19px&quot;&gt;提升交付效率&lt;/span&gt;&lt;br style=&quot;font-size: 19px&quot;&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;提升运维效率&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;提升用户体验&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;br&gt;增强数据应用建设&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;引导性&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;dashed=1;strokeColor=#5E5E5E;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+          <mxGeometry x="-328" y="180" width="234" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hyHjjYY_9C0VjJkFPqlw-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="60" width="170" height="250" as="geometry" />
+        <mxCell id="hyHjjYY_9C0VjJkFPqlw-9" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="572" y="60" width="190" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="hyHjjYY_9C0VjJkFPqlw-6" value="" style="endArrow=classic;html=1;fontSize=19;dashed=1;strokeWidth=2;" edge="1" parent="hyHjjYY_9C0VjJkFPqlw-9">
+        <mxCell id="hyHjjYY_9C0VjJkFPqlw-6" value="" style="endArrow=classic;html=1;fontSize=19;dashed=1;strokeWidth=2;" parent="hyHjjYY_9C0VjJkFPqlw-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="82" y="250" as="sourcePoint" />
-            <mxPoint x="82" as="targetPoint" />
+            <mxPoint x="91.64705882352942" y="250" as="sourcePoint" />
+            <mxPoint x="91.64705882352942" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hyHjjYY_9C0VjJkFPqlw-5" value="智能化贯穿产品演进过程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="hyHjjYY_9C0VjJkFPqlw-9">
-          <mxGeometry y="100" width="170" height="60" as="geometry" />
+        <mxCell id="hyHjjYY_9C0VjJkFPqlw-5" value="智能化贯穿产品演进" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="hyHjjYY_9C0VjJkFPqlw-9" vertex="1">
+          <mxGeometry y="100" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
